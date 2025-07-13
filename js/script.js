@@ -8,7 +8,7 @@ colorPicker = document.querySelector('#color-picker'),
 clearCanvas = document.querySelector('.clear-canvas'),
 saveBtn = document.querySelector('.save-img')
 
-// VERIABLE
+// VARIABLE
 let ctx = canvas.getContext('2d'),
 isDrawing = false,
 brushWidth = 5,
