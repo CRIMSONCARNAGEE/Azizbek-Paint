@@ -19,7 +19,7 @@ prevMouseY,
 snapshot
 
 
-// SET CANVAS BACGKROUND
+// SET CANVAS BACKGROUND
 const setCancasBackground = () => {
   ctx.fillStyle ='#fff'
   ctx.fillRect(0, 0, canvas.width, canvas.height)
