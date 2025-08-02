@@ -52,7 +52,7 @@ const drawRengtengle = e => {
   : ctx.strokeRect(prevMouseX, prevMouseY, e.offsetX - prevMouseX, e.offsetY - prevMouseY)
 }
 
-//Draw Circle
+//DRAW CIRCLE
 const drawCircle = e => {
   ctx.beginPath()
   const radius = Math.sqrt(
