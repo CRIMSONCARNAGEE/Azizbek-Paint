@@ -18,7 +18,6 @@ prevMouseX,
 prevMouseY,
 snapshot
 
-
 // SET CANVAS BACKGROUND
 const setCancasBackground = () => {
   ctx.fillStyle ='#fff'
