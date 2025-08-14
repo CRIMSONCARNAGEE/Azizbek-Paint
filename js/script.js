@@ -102,8 +102,6 @@ const drawing = e => {
     ctx.stroke()
     break
   }
-
-
 }
 
 toolBtns.forEach(btn => {
